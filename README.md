@@ -1,5 +1,6 @@
 # 미국 주별 범죄율에 따른 연관성 분석
-![Screenshot from 2023-10-04 15-46-35](https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/71fa49e2-6c31-4036-a188-d8fc47ee5bc3)
+<img src="https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/71fa49e2-6c31-4036-a188-d8fc47ee5bc3" width="730">
+
 > 6조 러버덕의 EDA 프로젝트
 - - -
 <br/><br/><br/>
@@ -12,14 +13,16 @@
 그럼 미국의 범죄 또한 주별마다 다르게 나타나지 않을까요?
 <br/><br/><br/>
 ## :books:처음에는 이렇게 생각했습니다.
-![Screenshot from 2023-10-04 16-10-57](https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/b24645f9-794a-4002-8fad-3f17e35717e0)
+<img src="https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/b24645f9-794a-4002-8fad-3f17e35717e0" width="730">
 <br/><br/><br/>
 ## 미국 학생들의 차량 절도 유행
 
 교육수준과 차량절도는 양의 상관관계를 가질 것이다.
 
-![미국 범죄](https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/e3078807-940b-4291-812a-485fa789d6bd)
-![미국 범죄 (1)](https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/17ba461c-54b1-4b74-bcc0-a02a70ca018e)
+<img src="https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/e3078807-940b-4291-812a-485fa789d6bd" width="730">
+<img src="https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/17ba461c-54b1-4b74-bcc0-a02a70ca018e" width="730">
+
+
 ## 데이터 출처
 * Kaggle
   * 범죄 데이터
