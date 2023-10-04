@@ -13,3 +13,8 @@
 <br/><br/><br/>
 ## :books:처음에는 이렇게 생각했습니다.
 ![Screenshot from 2023-10-04 16-10-57](https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/b24645f9-794a-4002-8fad-3f17e35717e0)
+<br/><br/><br/>
+## 미국 학생들의 차량 절도 유행
+
+교육수준과 차량절도는 양의 상관관계를 가질 것이다.
+## 데이터 출처
