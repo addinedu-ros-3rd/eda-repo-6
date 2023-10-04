@@ -17,6 +17,9 @@
 ## 미국 학생들의 차량 절도 유행
 
 교육수준과 차량절도는 양의 상관관계를 가질 것이다.
+
+![미국 범죄](https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/e3078807-940b-4291-812a-485fa789d6bd)
+![미국 범죄 (1)](https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/17ba461c-54b1-4b74-bcc0-a02a70ca018e)
 ## 데이터 출처
 ## 관련자료
 [EDA 프로젝트 6조.pptx](https://docs.google.com/presentation/d/1tfwY901hPHnBKaL9KJIQmcHlLjEO1uCErJ3Oh_hnNHc/edit#slide=id.g2441b38e2e7_1_135)
