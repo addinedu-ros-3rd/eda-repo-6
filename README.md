@@ -49,9 +49,8 @@
 ## 데이터베이스 구축
 ### 1. 데이터 수집
 #### 1-1. csv 및 excel 다운로드
-[범죄 데이터](https://www.kaggle.com/datasets/tunguz/us-estimated-crimes "Kaggle Link")
-
-[미국 교육부 자료](https://www.kaggle.com/datasets/tunguz/us-estimated-crimes "Digest of Education Statistics")
+[범죄 데이터](https://www.kaggle.com/datasets/tunguz/us-estimated-crimes "Kaggle Link")  
+[미국 교육부 자료](https://www.kaggle.com/datasets/tunguz/us-estimated-crimes "Digest of Education Statistics")  
 [미국 인구조사국 자료](https://www.census.gov/en.html "Digest of Education Statistics")
 
 #### 1-2. 웹 크롤링
