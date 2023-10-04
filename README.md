@@ -18,3 +18,5 @@
 
 교육수준과 차량절도는 양의 상관관계를 가질 것이다.
 ## 데이터 출처
+## 관련자료
+[EDA 프로젝트 6조.pptx](https://docs.google.com/presentation/d/1tfwY901hPHnBKaL9KJIQmcHlLjEO1uCErJ3Oh_hnNHc/edit#slide=id.g2441b38e2e7_1_135)
