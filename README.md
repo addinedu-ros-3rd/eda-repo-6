@@ -27,16 +27,26 @@
   * 공립학교 학생 수
   * 공립학교 수
   * 4년제 대학교 수
-* 미국 인구조사국
+* 연방 준비 은행 경제 데이터
   * 중위소득
   * 고졸이상 학력자 비율
-  * 학위이상 학력자 비율
+  * 학위이상 학력자 비율 
+* 미국 인구조사국
   * 빈곤율
 
 2015년 ~ 2019년 사이의 미국 51개 주별 데이터를 가지고 분석.
 
 ## 데이터베이스 구축
 ### 1. 데이터 수집
+#### 1-1. csv 및 excel 다운로드
+[범죄 데이터](https://www.kaggle.com/datasets/tunguz/us-estimated-crimes "Kaggle Link")
+
+[미국 교육부 자료](https://www.kaggle.com/datasets/tunguz/us-estimated-crimes "Digest of Education Statistics")
+[미국 인구조사국 자료](https://www.census.gov/en.html "Digest of Education Statistics")
+
+#### 1-2. 웹 크롤링
+[연방 준비 은행 경제 데이터](https://fred.stlouisfed.org/ "Federal Reserve economic data")
+
 ### 2. 데이터 전처리
 ### 3. 데이터베이스 구축
 
