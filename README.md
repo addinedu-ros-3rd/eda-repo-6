@@ -15,12 +15,19 @@
 ## :books:처음에는 이렇게 생각했습니다.
 <img src="https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/b24645f9-794a-4002-8fad-3f17e35717e0" width="730">
 <br/><br/><br/>
+
 ## 미국 학생들의 차량 절도 유행
 
 교육수준과 차량절도는 양의 상관관계를 가질 것이다.
 
 <img src="https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/e3078807-940b-4291-812a-485fa789d6bd" width="730">
 <img src="https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/17ba461c-54b1-4b74-bcc0-a02a70ca018e" width="730">
+<br/><br/><br/>
+
+## :chart_with_upwards_trend:데이터의 연관성을 나타내는 지표
+- 지도 시각화 folium
+- 산점도
+- 피어슨 상관계수
 
 
 ## 데이터 출처
