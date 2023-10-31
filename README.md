@@ -63,3 +63,6 @@
 
 ## 관련자료
 [EDA 프로젝트 6조.pptx](https://docs.google.com/presentation/d/1tfwY901hPHnBKaL9KJIQmcHlLjEO1uCErJ3Oh_hnNHc/edit#slide=id.g2441b38e2e7_1_135)
+
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-181717?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/arduino-4479A1?style=for-the-badge&logo=arduino&logoColor=white">
