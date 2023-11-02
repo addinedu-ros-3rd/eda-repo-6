@@ -1,9 +1,8 @@
 # 미국 주별 범죄율에 따른 연관성 분석
 <img src="https://github.com/addinedu-amr-4th/eda-repo-6/assets/143172717/71fa49e2-6c31-4036-a188-d8fc47ee5bc3" width="730">
 
-> 6조 러버덕의 EDA 프로젝트
-> 
-> 개발기간: 2023.09.07~2023.09.14
+#### 6조 러버덕의 EDA 프로젝트
+#### 개발기간: 2023.09.07~2023.09.14 (7일)
 - - -
 <br/><br/>
 
@@ -29,11 +28,20 @@
 
 > 2015년 ~ 2019년 사이의 미국 51개 주별 데이터를 가지고 분석
 
-### 데이터의 연관성을 나타내는 지표
+###  출처 사이트
+- csv 및 excel 다운로드
+[범죄 데이터](https://www.kaggle.com/datasets/tunguz/us-estimated-crimes "Kaggle Link")  
+[미국 교육부 자료](https://www.kaggle.com/datasets/tunguz/us-estimated-crimes "Digest of Education Statistics")  
+[미국 인구조사국 자료](https://www.census.gov/en.html "Digest of Education Statistics")
+
+- 웹 크롤링
+[연방 준비 은행 경제 데이터](https://fred.stlouisfed.org/ "Federal Reserve economic data")
+<br/><br/>
+## 0. 데이터의 연관성을 나타내는 지표
 - 지도 시각화 folium
 - 산점도
 - 피어슨 상관계수
-<br/><br/><br/>
+<br/><br/>
 ## 1. 교육수준 <-> 범죄율
 ### 1.1 10대들의 교육수준 <-> 차량절도
 - 미국 학생들의 차량 절도 유행으로 인해, 교육수준과 차량절도는 양의 상관관계를 가질 것으로 예상했습니다.
@@ -67,8 +75,10 @@
 - 범죄의 숫자는 인구수와 거의 정비례합니다.
 - 미국의 인구는 캘리포니아에 집중되어 있습니다.
 - 범죄율이 제일 높은 주는 워싱턴 D.C. 특별자치구인 미국의 수도이며 도시의 동쪽 외곽지역의 범죄율이 굉장히 높다고 합니다.
+
 <img src="https://github.com/addinedu-ros-3rd/eda-repo-6/assets/143172717/2dad999f-1a0e-46bd-bfa3-c6194ae2c51d" width="300" height="300"><img src="https://github.com/addinedu-ros-3rd/eda-repo-6/assets/143172717/ebbc130b-258c-4c66-a678-78c042b2740e" width="600" height="300">
 <img src="https://github.com/addinedu-ros-3rd/eda-repo-6/assets/143172717/eb772c47-dc45-4df9-9c71-6158da387feb">
+- 지도 시각화 folium
 
 
 
@@ -79,14 +89,5 @@
 2. 재산범죄에 포함되는 절도, 차량절도, 주거침입은 성격이 매우 다르다.
 3. 소득과 빈곤율은 주거침입과 연관이 높다.
 <br/><br/>
-### 1. 데이터 출처 사이트
-#### 1-1. csv 및 excel 다운로드
-[범죄 데이터](https://www.kaggle.com/datasets/tunguz/us-estimated-crimes "Kaggle Link")  
-[미국 교육부 자료](https://www.kaggle.com/datasets/tunguz/us-estimated-crimes "Digest of Education Statistics")  
-[미국 인구조사국 자료](https://www.census.gov/en.html "Digest of Education Statistics")
-
-#### 1-2. 웹 크롤링
-[연방 준비 은행 경제 데이터](https://fred.stlouisfed.org/ "Federal Reserve economic data")
-
 ## 관련자료
 [EDA 프로젝트 6조.pptx](https://docs.google.com/presentation/d/1tfwY901hPHnBKaL9KJIQmcHlLjEO1uCErJ3Oh_hnNHc/edit#slide=id.g2441b38e2e7_1_135)
